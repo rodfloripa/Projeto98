@@ -1,8 +1,6 @@
 # Comparação de Métricas para Identificar a Complexidade dos Textos
 
-
 # 1. Objetivo
-
 
 <p align="justify">Este projeto compara medidas automáticas aplicadas a seis frases em inglês, previamente classificadas em três categorias: básico, médio e avançado. O código calcula a perplexidade de um modelo de linguagem, o índice Flesch-Kincaid, a Facilidade de Leitura de Flesch e um índice híbrido que combina a perplexidade com o Flesch-Kincaid. Também registra a quantidade de palavras e sílabas de cada frase.</p>
 
